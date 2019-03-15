@@ -31,7 +31,6 @@ class Handle(object):
             return Argument
 
     def POST(self):
-
         return "hello"
 
 
